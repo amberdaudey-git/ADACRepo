@@ -1,0 +1,7 @@
+ADACRepo/
+├── scraper.py
+├── pygooglenews/
+│   └── (library files)
+├── outputs/
+│   └── (results text files)
+└── README.md
